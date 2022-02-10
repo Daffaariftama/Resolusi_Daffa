@@ -3,4 +3,6 @@ update konten 2022
   * membuat video promosi
 - instagram
   * Posting di reels
+  * membuat konten menarik
+  * membuat foto yang keren
 - tiktok
