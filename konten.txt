@@ -1,7 +1,8 @@
 update konten 2022
 - youtube
-  * membuat tutorial
+  * membuat video promosi
 - instagram
+  * Posting di reels
   * membuat konten menarik
   * membuat foto yang keren
 - tiktok
